@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<eclipse-userlibraries version="2">
+    <library name="Referenced Libraries" systemlibrary="false">
+        <archive path="D:/torrent/mysql-connector-java-8.0.29/mysql-connector-java-8.0.29.jar"/>
+        <archive path="D:/torrent/Java-DBMS-mini-project-Hostel-Management-Software-master/activation.jar"/>
+        <archive path="D:/torrent/Java-DBMS-mini-project-Hostel-Management-Software-master/JarFiles.jar"/>
+        <archive path="D:/torrent/Java-DBMS-mini-project-Hostel-Management-Software-master/mail.jar"/>
+        <archive path="D:/torrent/Java-DBMS-mini-project-Hostel-Management-Software-master/mysql-connector-java-3.1.14-bin.jar"/>
+    </library>
+</eclipse-userlibraries>
